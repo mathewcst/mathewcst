@@ -1,5 +1,5 @@
-## Aloha! 👋
-Trabalhei como desenvolvedor nos últimos 10 anos e hoje estou focando em mudar minha carreira. Ainda não decidi o que vem pela frente mas até lá estou fazendo streams na [Twitch](https://twitch.tv/mathewcst).
+## Hey there! 👋
+
 <!--
 **mathewcst/mathewcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
